@@ -1,0 +1,63 @@
+body {
+	 background-image: linear-gradient(#FFFFFF, #FFF0AF);
+}
+
+.border {
+  border: solid;
+  border-color: FDF2A3;
+  border-width: 10px;
+  border-radius: 11px;
+}
+
+button {
+	width: 200px;
+	height: 100px;
+	}
+.wrapper {
+    text-align: center;
+}
+
+.button {
+  background-color: #fff0af;
+  border: solid;
+  border-color: red;
+  border-width: 3px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  top: 94%;
+  left: 39%;
+    
+}
+
+p1 {
+	position: absolute;
+	right: 36%;
+	top: 58%;
+	font-size: 50px;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid;
+  width: 70%;
+  position: absolute;
+  right: 18%;
+  top: 65%;
+}
+
+th, td {
+  border: 2px solid;
+  text-align: center;
+  font-size: 40px;
+}
+
+.button2 {
+  background-color: #fff0af;
+  font-size: 50%;
+}
+
