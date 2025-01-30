@@ -1,5 +1,6 @@
 body {
-  background-image: linear-gradient(ffffff, fff0af;)
+  background-image: linear-gradient(white, fff0af);
+}
 
 .border {
   border: solid;
