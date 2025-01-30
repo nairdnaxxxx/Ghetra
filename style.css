@@ -49,9 +49,6 @@ table {
   border-collapse: collapse;
   border: 1px solid;
   width: 100%;
-  position: absolute;
-  right: 18%;
-  top: 65%;
   text-align: center;
   margin: 0 auto;
 }
