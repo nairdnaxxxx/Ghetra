@@ -1,5 +1,8 @@
 body {
   background-image: linear-gradient(white, #fff0af);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .border {
