@@ -42,7 +42,7 @@ p1 {
 table {
   border-collapse: collapse;
   border: 1px solid;
-  width: 70%;
+  width: 100%;
   position: absolute;
   right: 18%;
   top: 65%;
