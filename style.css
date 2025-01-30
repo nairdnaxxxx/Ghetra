@@ -3,7 +3,7 @@
 .border {
   border: solid;
   border-color: FDF2A3;
-  border-width: 10px;
+  border-width: 10px; 
   border-radius: 11px;
 }
 
@@ -47,6 +47,7 @@ table {
   right: 18%;
   top: 65%;
   text-align: center;
+  margin: 0 auto;
 }
 
 th, td {
